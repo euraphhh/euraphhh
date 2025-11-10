@@ -1,6 +1,5 @@
 <div align="center">
   <a href="https://github.com/euraphhh">
-    ## Building something great.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euraphhh&show_icons=true&theme=highcontrast"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euraphhh&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
